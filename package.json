@@ -2,6 +2,7 @@
   "name": "isometric-dynamics-website",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://IanXie33333.github.io/isometric-dynamics-website",
   "type": "module",
   "scripts": {
     "dev": "vite",
